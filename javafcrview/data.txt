@@ -1,0 +1,8 @@
+There are several ways to learn more about IntelliJ IDEA:
+Tips of the day show up every time you start IntelliJ IDEA and provide useful hints. To suppress them, you can select the Don't show tips on startup checkbox.
+To open the Tip of the Day dialog, select Help | Tip of the Day from the main menu.
+The Productivity Guide displays a list of useful features with statistics and tips.
+To open it, select Help | My Productivity from the main menu.
+To discover new features, sort the list by group and note rarely used features in the same group as the ones you use more frequently. Click the feature to see its usage description.
+The IDE Features Trainer is a tool for learning the most common and useful actions. It is a sequence of lessons that interactively guide new users through the shortcuts with real-world examples.
+To use it, select Help | Learn IDE Features from the main menu.
